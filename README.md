@@ -9,9 +9,9 @@ A minimalist console program, designed for all users. It is a console program, w
 </p>
 
 ## 👀 Preview
-!image].(image/1.png)
+![image].(image/image1.png)
 
-![image](image/2.png)
+![image](image/image2.png)
 
 
 ## ✨ Features
